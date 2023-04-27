@@ -1,0 +1,13 @@
+{
+  "name": "@syltur/randomid_generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Sylwia_Tur",
+  "keywords": [
+    "id",
+    "id generator",
+    "random id",
+    "random id generator"
+  ]
+}
